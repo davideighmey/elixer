@@ -1,0 +1,20 @@
+v1.
+{<<"/Users/david.eighmey/code/elixer/elixir-koans/_build/dev/lib/exfswatch/ebin/Elixir.ExFSWatch.Supervisor.beam">>,
+ 'Elixir.ExFSWatch.Supervisor',<<"lib/exfswatch/supervisor.ex">>,
+ ['Elixir.Kernel','Elixir.Supervisor','Elixir.Module',
+  'Elixir.Supervisor.Spec'],
+ ['Elixir.ExFSWatch.Worker'],
+ [],nil}.
+{<<"/Users/david.eighmey/code/elixer/elixir-koans/_build/dev/lib/exfswatch/ebin/Elixir.ExFSWatch.beam">>,
+ 'Elixir.ExFSWatch',<<"lib/exfswatch.ex">>,
+ [os,'Elixir.Kernel','Elixir.Module','Elixir.Logger'],
+ [erlang,'Elixir.String.Chars',fsevents,'Elixir.ExFSWatch.Supervisor'],
+ [],nil}.
+{<<"/Users/david.eighmey/code/elixer/elixir-koans/_build/dev/lib/exfswatch/ebin/Elixir.ExFSWatch.Worker.beam">>,
+ 'Elixir.ExFSWatch.Worker',<<"lib/exfswatch/worker.ex">>,
+ ['Elixir.Kernel.Def','Elixir.Kernel','Elixir.Module','Elixir.Protocol',
+  'Elixir.GenServer'],
+ [erlang,'Elixir.Path',os,'Elixir.List.Chars','Elixir.ExFSWatch',
+  'Elixir.Port','Elixir.String.Chars',inotifywait_win32,fsevents,
+  'Elixir.System'],
+ [],nil}.
